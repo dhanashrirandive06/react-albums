@@ -1,3 +1,28 @@
+# React Albums
+
+This React Album is a simple React app that shows the CRUD (Create, Read, Update, Delete) functionality.
+
+## Features
+
+- Simple and user Friendly UI
+- CRUD (Create, Read, Update, Delete) functionality
+- API call for Fetching list, adding in the list, updating the list and deleting from the list.
+
+## Getting Started
+
+Follow these steps to get started with the React Albums code:
+
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+    git clone https://github.com/dhanashrirandive06/react-albums.git
+2. **Navigate to the Project Directory**: Move to the project directory:
+    cd react-albums
+3. **Run the Code By Following Command** :
+    - npm install
+    - npm start
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
